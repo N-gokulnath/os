@@ -1,0 +1,6 @@
+Operating System
+Shell scripting practical
+AWK counts lines and words
+Grep searches text
+Sed edits text
+Linux commands
